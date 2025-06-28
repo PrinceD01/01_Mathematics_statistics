@@ -1,27 +1,37 @@
 # Objectifs du projet
 ## Objectif principal
-Analyser les facteurs influençant le prix des maisons à Ames (Iowa, USA) à partir du dataset "Ames Housing". Construire et évaluer des modèles prédictifs pour estimer les prix immobiliers.
+Analyser la loi de distribution des prix des maisons et les paramètres de loi associés.
 
 ## Intérêt pédagogique
-- Pratique de l'analyse exploratoire de données (EDA)
-- Mise en œuvre de régressions linéaires et d'arbres de décision
-- Validation des hypothèses statistiques
+- Compréhension et validation des hypothèses statistiques
 - Interprétation des résultats en contexte réel
 
 
 # Structure du projet
 project/
+
 │
+
 ├── data/
+
 │ ├── AmesHousing.csv # Données brutes
+
 │
+
 ├── notebooks/
+
 │ ├── .ipynb # Nettoyage des données
+
 │
+
 ├── src/
+
 │
+
 └── outputs/ # Visualisations sauvegardées
+
 │ ├── Loi de distribution de SalePrice.png
+
 └─└── Ajustement d'une Log-normale à SalePrice.png
 
 
