@@ -9,29 +9,17 @@ Analyser la loi de distribution des prix des maisons et les paramètres de loi a
 
 # Structure du projet
 project/
-
 │
-
 ├── data/
-
 │ ├── AmesHousing.csv # Données brutes
-
 │
-
 ├── notebooks/
-
 │ ├── .ipynb # Nettoyage des données
-
 │
-
 ├── src/
-
 │
-
 └── outputs/ # Visualisations sauvegardées
-
 │ ├── Loi de distribution de SalePrice.png
-
 └─└── Ajustement d'une Log-normale à SalePrice.png
 
 
