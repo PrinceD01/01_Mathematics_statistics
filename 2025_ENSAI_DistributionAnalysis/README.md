@@ -8,13 +8,10 @@ Analyser la loi de distribution des prix des maisons et les paramètres de loi a
 
 
 # Structure du projet
-project/
+`project/`
 │
-
-├── data/
-
-│ └── AmesHousing.csv # Données brutes du projet
-
+├── `data/`
+│ └── `AmesHousing.csv` # Données brutes du projet
 │
 
 ├── notebooks/
