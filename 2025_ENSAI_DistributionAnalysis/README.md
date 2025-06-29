@@ -11,7 +11,7 @@ Analyser la loi de distribution des prix des maisons et les paramètres de loi a
 `project/`
 │
 ├── `data/`
-│ └── `AmesHousing.csv` # Données brutes du projet
+│ └── `AmesHousing.csv` # Données brutes du projet\n
 │
 ├── notebooks/
 │ └── data_cleaning.ipynb # Notebook de nettoyage/analyse
