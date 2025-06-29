@@ -9,18 +9,30 @@ Analyser la loi de distribution des prix des maisons et les paramètres de loi a
 
 # Structure du projet
 `project/`
+
 │
+
 ├── `data/`
-│ └── `AmesHousing.csv` # Données brutes du projet\n
+
+│ └── `AmesHousing.csv` # Données brutes du projet
+
 │
-├── notebooks/
-│ └── data_cleaning.ipynb # Notebook de nettoyage/analyse
+
+├── `notebooks/`
+
+│ └── `data_cleaning.ipynb` # Notebook de nettoyage/analyse
+
 │
-├── src/ # Code source (scripts Python)
+
+├── `src/` # Code source (scripts Python)
+
 │
-└── outputs/ # Visualisations exportées
-│ └── Loi de distribution de SalePrice.png
-└─└── Ajustement d'une Log-normale à SalePrice.png
+
+└── `outputs/` # Visualisations exportées
+
+│ └── `Loi de distribution de SalePrice.png`
+
+└─└── `Ajustement d'une Log-normale à SalePrice.png`
 
 
 # Jeu de données
